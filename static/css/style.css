@@ -1,0 +1,25 @@
+* {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+  display: grid
+}
+
+.title {
+  font-family: yigivooUC;
+}
+
+.general-text {
+  font-family: montserrat;
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: yigivooUC;
+  src: url(../fonts/Yiggivoo\ UC.ttf);
+}
